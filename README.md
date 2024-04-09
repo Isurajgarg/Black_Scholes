@@ -1,6 +1,6 @@
 #  **1. BLACK SCHOLES MERTON MODEL**
 
-##The Black-Scholes model is a fundamental tool in option pricing. It is originally designed for calculating theoretical value of European options on non-dividend paying stocks. The formula for a call option (C) and put option (P) in the absence of dividends is as follows:
+The Black-Scholes model is a fundamental tool in option pricing. It is originally designed for calculating theoretical value of European options on non-dividend paying stocks. The formula for a call option (C) and put option (P) in the absence of dividends is as follows:
 
 # **1.1 Without Dividend paying stocks**
 $$C = S_0N(d1)-ke^{-rt}N(d2)$$
@@ -8,7 +8,9 @@ $$P = ke^{-rt}N(-d2)- S_0N(-d1)$$
 
 Where :-
 
+
 $$d1 = \frac{(ln(S_0/k)+(r+\sigma^2/2)*t)}{(\sigma*√t)}$$
+
 
 And
 
