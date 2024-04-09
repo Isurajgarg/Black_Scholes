@@ -9,10 +9,10 @@ $$P = ke^{-rt}N(-d2)- S_0N(-d1)$$
 Where :-
 
 
+
+
 $$d1 = \frac{(ln(S_0/k)+(r+\sigma^2/2)*t)}{(\sigma*√t)}$$
 
-
-And
 
 $$d2 = d1-\sigma*√t$$
 
