@@ -8,10 +8,8 @@ $$C = S_0N(d1)-ke^{-rt}N(d2)$$
 
 $$P = ke^{-rt}N(-d2)- S_0N(-d1)$$
 
-$$d1 = \frac{(ln(S_0/k)+(r+\sigma^2/2)*t)}{(\sigma*√t)}$$
 
-$$d1 = \frac{(ln(S_0/k)+(r+\sigma^2/2)*t)}{\sigma*√t}$$
-
+$$d1 = \frac{ln(S_0/k)+(r+\sigma^2/2)t}{\sigma√t}
 
 $$d2 = d1-\sigma*√t$$
 
