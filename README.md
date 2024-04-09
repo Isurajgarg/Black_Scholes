@@ -11,7 +11,7 @@ Where :-
 
 
 
-$$d1 = \frac{(ln(S_0/k)+(r+\sigma^2/2)*t)}{(\sigma*√t)}$$
+$$d1 = \frac{(ln(S_0/k)+(r+\sigma^2/2)*t)}{\sigma*√t}$$
 
 
 $$d2 = d1-\sigma*√t$$
